@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+div{
+    width: 500px;
+    background-color: burlywood;
+    padding: 15px;
+    margin: 0 auto ;
+}
+
+.dish{
+    padding: 10px;
+}
+
+a {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}
